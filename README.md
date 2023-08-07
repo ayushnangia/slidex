@@ -4,7 +4,7 @@ The Video-to-PDF Converter is a Python project that lets you extract slides from
 
 This project is implemented using OpenCV, img2pdf, and Gradio, a Python library that makes it easy to create a user interface for your code.
 
-
+#### Hugging face space : [Click here](https://huggingface.co/spaces/Ayushnangia/slidex)
 
 ## Getting Started
 
